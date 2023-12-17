@@ -1,4 +1,4 @@
-# JSONServer + JWT Auth
+
 
 End-points: login,register
 
