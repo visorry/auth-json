@@ -4,9 +4,7 @@ End-points: login,register
 
 $ npm install
 $ npm run start-auth
-```
-npm audit fix
-```
+``````
 ```
 POST http://localhost:8000/auth/login
 POST http://localhost:8000/auth/register
